@@ -35,3 +35,22 @@ Guard/
 
 └── README.md 
  
+## Примеры интерфейса (скриншоты)
+Авторизацию: 
+![image](https://github.com/user-attachments/assets/ca913ba0-f86f-4caf-852d-783cf45d62dc)
+Панель админа:
+![image](https://github.com/user-attachments/assets/d3742eeb-96f3-4c7f-bb40-497f282e7b5e)
+Панель вахтера:
+![image](https://github.com/user-attachments/assets/f62af000-1984-4940-a6d9-359a371682fb)
+
+## Возможные доработки приложения
+- Перевод на английский язык
+- Использование SQLite вместо JSON
+- Поддержка тем оформления (светлая/тёмная)
+- Админ-панель с фильтрами и поиском
+- Экспорт заявок в PDF или Excel
+- Интеграция с базой данных (PostgreSQL/MySQL)
+- REST API для внешних систем
+🤝 Автор
+[Vladimir]
+🔗 GitHub: [ваш_аккаунт]
