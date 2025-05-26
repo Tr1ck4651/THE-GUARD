@@ -19,9 +19,19 @@
 | openpyxl | Поддержка Excel для групповых заявок | 
 ##  Структура проекта 
 Guard/
+
+
 ├── main.py
+
+
 ├── guard.py
+
+
 ├── admin.py
+
+
 ├── emulator.py
+
+
 └── README.md 
       
